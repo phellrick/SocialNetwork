@@ -1,0 +1,14 @@
+.contentWrapper{
+    display: flex;
+
+}
+
+.navMenu{
+    box-sizing: border-box;
+}
+
+
+.content{
+    width: 100%;
+
+}
